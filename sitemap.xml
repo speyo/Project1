@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://www.denieuwestem.com/</loc>
+  <lastmod>2018-05-09T15:00:38+00:00</lastmod>
+  
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/LOGO_BIG.png</image:loc>
+  	<image:caption>Logo van De Nieuwe Stem</image:caption>
+  </image:image>
+
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/BIJENKORF.png</image:loc>
+  	<image:caption>Korte samenvatting en leerdoelen van De Nieuwe Stem</image:caption>
+  </image:image>
+
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/VISIE.png</image:loc>
+  	<image:caption>Header Visie</image:caption>
+  </image:image>
+
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/VISIE1.png</image:loc>
+  	<image:caption>Basis elementen waarop De Nieuwe Stem gebouwd is</image:caption>
+  </image:image>
+
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/STEMADEMKERN.png</image:loc>
+  	<image:caption>De Drie niveaus waaraan De Nieuwe Stem werkt</image:caption>
+  </image:image>
+
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/SESSIE.png</image:loc>
+  	<image:caption>Header Sessie</image:caption>
+  </image:image>
+
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/SESSIE1.png</image:loc>
+  	<image:caption>Basis elementen waarop De Nieuwe Stem gebouwd is</image:caption>
+  </image:image>
+
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/OVER.png</image:loc>
+  	<image:caption>Header Over</image:caption>
+  </image:image>
+
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/OVER2.jpg</image:loc>
+  	<image:caption>Portret foto's Kyra Vollebergh</image:caption>
+  </image:image>
+
+  <image:image>
+  	<image:loc>http://denieuwestem.com/images/AFSPRAKEN.png</image:loc>
+  	<image:caption>Header afspraak algemeen</image:caption>
+  </image:image>
+
+    <image:image>
+  	<image:loc>http://denieuwestem.com/images/AFSPRAKEN1.png</image:loc>
+  	<image:caption>Coaching de vrije stem</image:caption>
+  </image:image>
+
+    <image:image>
+  	<image:loc>http://denieuwestem.com/images/AFSPRAKEN2.png</image:loc>
+  	<image:caption>Coaching de zakelijke stem</image:caption>
+  </image:image>
+
+    <image:image>
+  	<image:loc>http://denieuwestem.com/images/AFSPRAKEN3.png</image:loc>
+  	<image:caption>coaching de helende stem</image:caption>
+  </image:image>
+
+    <image:image>
+  	<image:loc>http://denieuwestem.com/images/CONTACT.png</image:loc>
+  	<image:caption>Header contact</image:caption>
+  </image:image>
+</url>
+
+
+</urlset>

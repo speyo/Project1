@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	<K. Vollebergh> -- <Author contents>
+    <Y. Reinders> -- <Web design>
+    <I. Nijmeijer> -- <Art design>
+
+# THANKS
+
+    <The old Folks>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
