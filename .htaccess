@@ -341,19 +341,11 @@ AddDefaultCharset utf-8
 
 </IfModule>
 
-# ----------------------------------------------------------------------
-# | Forcing `https://`                                                 |
-# ----------------------------------------------------------------------
-
-# Redirect from the `http://` to the `https://` version of the URL.
-# https://wiki.apache.org/httpd/RewriteHTTPToHTTPS
-
-# <IfModule mod_rewrite.c>
-#    RewriteEngine On
-#    RewriteCond %{HTTPS} !=on
-#    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-# </IfModule>
-
+##------Forceer HTTPS verbinding geheel domein------##
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+##
 # ----------------------------------------------------------------------
 # | Suppressing the `www.` at the beginning of URLs                    |
 # ----------------------------------------------------------------------
@@ -1174,4 +1166,3 @@ FileETag None
 #     RewriteCond %{REQUEST_FILENAME} !-f
 #     RewriteRule ^(.+)\.(\d+)\.(bmp|css|cur|gif|ico|jpe?g|m?js|png|svgz?|webp|webmanifest)$ $1.$3 [L]
 # </IfModule>
-
